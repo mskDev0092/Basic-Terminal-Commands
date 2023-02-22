@@ -1,5 +1,20 @@
 # Linux Terminal Commands
 
+| Table of Contents                                                             |
+| ----------------------------------------------------------------------------- |
+| 1. [grep](https://github.com/mskDev0092/Linux-Terminal-Commands#grep-command) |
+| 2. [awk](https://github.com/mskDev0092/Linux-Terminal-Commands#awk-command)   |
+| 3. [sed](https://github.com/mskDev0092/Linux-Terminal-Commands#sed-command)   |
+| 4. [curl](https://github.com/mskDev0092/Linux-Terminal-Commands#curl-command) |
+| 5. [wget](https://github.com/mskDev0092/Linux-Terminal-Commands#wget-command) |
+| 6. [tail](https://github.com/mskDev0092/Linux-Terminal-Commands#tail-command) |
+| 7. [head](https://github.com/mskDev0092/Linux-Terminal-Commands#head-command)  |
+| 8. [less](https://github.com/mskDev0092/Linux-Terminal-Commands#less-command)  |
+| 9. [find](https://github.com/mskDev0092/Linux-Terminal-Commands#find-command)  |
+| 10. [ssh](https://github.com/mskDev0092/Linux-Terminal-Commands#ssh-command)   |
+| 11. [kill](https://github.com/mskDev0092/Linux-Terminal-Commands#kill-command) |
+| 12. [dig](https://github.com/mskDev0092/Linux-Terminal-Commands#dig-command)   |
+
 # grep command
 
 > The grep command is a powerful command line tool used for searching for patterns in text files or streams. It can be used to search for specific strings or regular expressions, and can be used to filter out unwanted lines from output. 
